@@ -1,15 +1,12 @@
 # demo
 This is my first repo
 
-> Let's see what happens?
+
+- Point 1
+- Point 2
 
 ___
 
-- Hi
-- what 
-- is this
-
 ```
-print('hello')
-print('what')
+print('hello world')
 ```
